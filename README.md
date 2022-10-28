@@ -1,7 +1,7 @@
 
 # How many monitors can my laptop run ?
 
-[![How many monitors can my laptop run](blue.png)](https://icncomputer.com/how-many-monitors-can-my-laptop-run/)
+[![How many monitors can my laptop run](blue.png)](https://computer-solved.com/how-many-monitors-can-my-laptop-run/)
 
 Most monitors can support two or three additional monitors. The number of monitors a laptop can support depends on the operating system it is running, the graphics card, and the number of available ports on the device, as well as the additional equipment you are willing to purchase.
 
